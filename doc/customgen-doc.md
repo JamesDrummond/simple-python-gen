@@ -21,7 +21,7 @@ a language used to handle and produce text from models.
 
 This section is organized as follow. The first part of this section deals with code generator organization (project setup, 
 required directories...). The second one present requirements for the model to text transformations. The third part of this 
-section give details about the main piece of the project, the `generator.xml` file, then, the fourth part exmplains how to register your custom generator into GenMyModel. 
+section give details about the main piece of the project, the `generator.xml` file, then, the fourth part explains how to register your custom generator into GenMyModel. 
 Finally, last part of this article presents you the errors
 you could face while compiling/executing your generator.
 
